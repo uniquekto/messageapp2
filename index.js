@@ -17,11 +17,11 @@ app.get('/', function (req, res) {
 
 var messages = [
   {
-  username: "Richard",
+  username: "Mr A",
   message: "Hello"
   },
   {
-    username: "Rick",
+    username: "Mr B",
     message: "Hello sire"
   }
 ];
