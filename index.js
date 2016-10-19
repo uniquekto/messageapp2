@@ -22,7 +22,7 @@ var messages = [
   },
   {
     username: "Mr B",
-    message: "Hello sire"
+    message: "Hello Mr A"
   }
 ];
 //messages
